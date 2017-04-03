@@ -2,7 +2,7 @@
 
 Run Angular with server(less) side render. 
 Demo:
-https://severless.letojs.com
+https://serverless.letojs.com
 
 
 ### Installation
