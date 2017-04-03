@@ -62,6 +62,7 @@ functions:
     handler: lambda.leto
     events:
       - http: ANY {proxy+}
+      - http: ANY /
 
 #    The following are a few example events you can configure
 #    NOTE: Please make sure to change your handler code to work with those events
